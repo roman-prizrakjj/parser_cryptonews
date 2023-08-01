@@ -5,6 +5,7 @@ from utils.config import *
 
 
 
+print("==============PARSER BY PRIZRAKJJ====================")
 
 flag = input("""
 1 = Получить статьи с главной страницы
