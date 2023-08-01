@@ -1,0 +1,1 @@
+url = "https://cryptonews.net/ru/?page=1"
